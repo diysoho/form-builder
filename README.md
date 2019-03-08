@@ -34,7 +34,7 @@ PHP表单生成器，快速生成现代化的form表单。包含复选框、单�
 
 ## 使用建议
 1. 建议将静态资源加载方式从 CDN 加载修改为自己本地资源或自己信任的 CDN [静态资源链接](https://github.com/xaboy/form-builder/blob/master/src/Form.php#L89)
-2. 建议根据自己的业务逻辑重写默认的表单生成页 [默认表单生成页](https://github.com/xaboy/form-builder/blob/master/src/view/form.php)
+2. 建议根据自己的业务逻辑重写默认的表单生成页 [默认表单生成页](https://github.com/xaboy/form-builder/tree/master/src/view)
 
 ## 更新说明
 
